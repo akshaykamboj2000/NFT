@@ -1,0 +1,49 @@
+
+@media only screen and (max-width: 767px){
+
+.ver2a span {font-size: 32px; line-height: 52px;}
+.ver2ba {    font-size: 13px;}
+.create1{    font-size: 33px;}
+.ver2box1{ width: 98%; }
+.crtbx1b{    padding: 7px 45px; line-height: 27px; font-size: 13px; }
+.ver2logos .col-sm-2 {width: 100%; padding: 30px;     text-align: center; }
+.live1a button {font-weight: 600; font-size: 12px;}
+.live1a { font-size: 33px;}
+.artic{left: unset!important; right: 0px;}
+.nav-tabs .nav-link {    width: 120px; margin-bottom: 20px;}
+ul#myTab{justify-content: left;}
+
+}
+
+
+@media only screen and (min-width:  767px) and (max-width: 1024px){
+
+.ver2a span{font-size: 31px;    line-height: 50px;}
+.ver2ba {font-size: 13px; line-height: 20px; }
+.create1b {font-size: 10px; line-height: 19px; padding: 15px; }
+.create1a {  font-size: 17px;}
+.create1 {    font-size: 35px;}
+.ver2logos .col-sm-2 {  padding: 18px;}
+.live2b {    font-size: 8px;}
+.live2c {    font-size: 10px;}
+.live2d button {font-size: 12px; line-height: 25px; padding: 0px 17px; border-radius: 10px;}
+.live2d {    font-size: 9px;}
+.live2c span {    font-size: 9px;}
+.live1a{    font-size: 40px;}
+.artist1 {  padding: 15px;}
+.art1b {    font-size: 11px;}
+.art1c {    font-size: 12px;}
+.crtbx1b{    padding: 10px 40px;     font-size: 14px;}
+.crtbx1a {    font-size: 40px;}
+
+}
+
+@media only screen and (max-width: 375px){
+
+.live1a {
+    font-size: 24px;
+}
+
+
+
+}

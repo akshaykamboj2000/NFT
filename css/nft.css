@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{background: #1E1E1E; font-family: 'Poppins'; font-style: normal;}
+
+
+.version2{float: left; width: 100%;}
+.col-sm-6{float: left;}
+.ver2a span{font-weight: 700; font-size: 50px; line-height: 80px; color: #FFFFFF;}
+.ver2ba {float: left; width: 100%; font-weight: 400; font-size: 15px; line-height: 28px; color: #ADB9C7; } 
+.ver2bb{float: left; width: 100%; padding-top: 20px; font-weight: 600; font-size: 16px; line-height: 32px; text-decoration-line: underline; text-transform: capitalize;color: #FFFFFF;}
+.ver2a{    padding: 17px;}
+.ver2b{    padding: 30px;}
+.ver2bb a{text-decoration: none; color: #FFFFFF;}
+.ver2bb i{margin-left: 10px;}
+.wrapper{width: 100%; }
+.carousel{max-width: 1200px; margin: auto; padding: 0px 30px; }
+.car{float: left; width: 100%; padding-bottom: 50px; padding-top: 40px;}
+.carousel img{max-width: 100%;      border-radius: 25px;}
+.carousel {max-width: 100%; margin: unset; padding: unset; }
+.ver2logos{float: left; width: 100%; padding-top: 50px; padding-bottom: 50px;}
+.ver2logos .col-sm-2{float: left; width: 20%;}
+.v1 img{max-width: 100%;}
+.ver2create{float: left; width: 100%; text-align: center;     padding-bottom: 50px;    padding-top: 50px; }
+.create1{float: left; width: 100%; font-weight: 700; font-size: 48px; line-height: 64px; text-align: center; text-transform: capitalize; color: #FFFFFF;} 
+.ver2box1{background: #272D37; float: left; width: 90%; border: 1px solid transparent; border-radius: 16px;}
+.ver2box1:hover{background: transparent; transition: 1s;  border: 1px solid white;}
+.ver2create img {max-width: 22%; margin-top: 40px; }
+.create1a {float: left; width: 100%; font-weight: 700; font-size: 20px; line-height: 32px; text-transform: capitalize; color: #FFFFFF; padding-top: 30px ; }
+.create1b {float: left; width: 100%; font-weight: 400; font-size: 11px; line-height: 21px; text-align: center; color: #ADB9C7; padding: 37px; margin-bottom: 5px;}
+.col-sm-4{float: left;	}
+.createbx1{padding-top: 50px; }
+.ver2live{float: left; width: 100%;     padding: 100px 0px;}
+.live1a{float: left; width: 100%; text-align: left; padding-bottom: 25px; font-weight: 700; font-size: 45px; line-height: 64px; text-transform: capitalize; color: #FFFFFF;}
+.live1a span{float: right;}
+.live1a button{font-weight: 600; font-size: 13px;     padding: 4px 20px; line-height: 32px; text-transform: capitalize; color: #FFFFFF; border: 1px solid #1E50FF; border-radius: 10px; background: transparent; }
+.live1a button:hover{background: #1E50FF; transition: 1s;}
+.livebox{float: left; width: 100%; position: relative; background: #272D37;border-radius: 24px;     padding: 18px;}
+.liveic{float: left; width: 100%; position: absolute;     right: 30px;    top: 30px;}
+.liveic i {float: right; color: #FF4D6D; font-size: 16px; background: white; border-radius: 50%; padding: 7px; }
+.live2b{float: left; width: 100%; font-weight: 700; font-size: 13px; line-height: 24px; color: #FFFFFF;     margin-bottom: 0px;    padding-top: 20px;}
+.live2b span{float: right; font-weight: 400; font-size: 13px; line-height: 32px; color: #ADB9C7; }
+.live2c{float: left; width: 100%; font-weight: 400; font-size: 11px; line-height: 24px; color: #FFFFFF;}
+.live2c span{float: right; font-weight: 700; font-size: 12px; line-height: 24px; color: #FFFFFF; }
+.live2d{float: left; width: 100%;     margin-bottom: 1px; font-weight: 700; font-size: 13px; line-height: 32px; text-transform: capitalize;  color: #FFFFFF;}
+.live2d i{color: #FF6D00; font-size: 18px;     margin-right: 8px;}
+.live2d span{float: right;}
+.live2d button{font-weight: 600; font-size: 13px; line-height: 32px; text-transform: capitalize;     padding: 2px 35px; color: #FFFFFF; background: #1E50FF; border-radius: 16px; border: transparent; }
+.live2d button:hover{ box-shadow: 8px 8px 18px rgba(30, 80, 255, 0.25); transition: 1s;}
+.live2a{float: left; width: 100%;}
+.live2a img{max-width: 100%;}
+.live2c img{    max-width: 11%;}
+.col-sm-4.live2 {  padding: 15px;}
+.artist{float: left; width: 100%; text-align: center; padding-bottom: 100px; padding-top: 50px;}
+.col-sm-2{float: left;}
+.artic{float: left; width: 100%; position: absolute;       left: 45px;    bottom: 81px;}
+.artic i{color: #ADB9C7;; font-size: 15px; background:#1E50FF; border-radius: 50%; padding: 4px;}
+.art1a{float: left; width: 100%;}
+.art1a img{max-width: 100%;}
+.art1b{float: left; width: 100%; font-weight: 700; font-size: 21px; line-height: 32px; padding-bottom: 10px;    padding-top: 15px; text-align: center; text-transform: capitalize; color: #FFFFFF; }
+.art1c{font-weight: 500; font-size: 15px; line-height: 24px; text-align: center; color: #FFFFFF; padding-top: 15px; }
+.artist1{position: relative; padding-top: 25px;}
+.ver2hot{float: left; width: 100%;}
+.hot1{float: left; width: 100%;     padding-top: 40px;}
+.hot2{float: left; width: 100%;}
+.hot11{padding-top: 20px; padding-bottom: 50px; float: left; width: 100%; text-align: center; font-weight: 700; font-size: 48px; line-height: 64px; text-transform: capitalize; color: #FFFFFF; }
+.hottab{float: left; width: 100%;}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {border-color: transparent; background: #1E50FF; box-shadow: 10px 10px 42px rgba(30, 80, 255, 0.4); color: white; }
+.nav-link {color: white;}
+.nav-tabs{border-bottom: unset ;}
+.nav-link:hover {color: white; border: 1px solid transparent;}
+.nav-tabs .nav-link:focus{border-color: unset;}
+.createbox{float: left; width: 100%; text-align: center;     padding-top: 80px;}
+.crtbx1{float: left; width: 100%; background: #1E50FF; backdrop-filter: blur(74px); border-radius: 20px;}
+.crtbx1a{float: left; width: 100%; font-weight: 700; font-size: 48px; line-height: 64px;     padding-top: 40px; text-transform: capitalize; color: #FFFFFF; }
+.crtbx1b{float: left; width: 100%; font-weight: 400; font-size: 15px;     padding: 20px 200px 20px 200px; line-height: 32px; text-align: center;  color: #FFFFFF;}
+.crtbx1c{float: left; width: 100%; padding-bottom: 30px }
+.crtbx1c button{background: white; border: 1px solid transparent; font-weight: 600; font-size: 16px; line-height: 32px; text-transform: capitalize; color: #1E50FF; border-radius: 16px;     padding: 10px 18px;    }
+ul#myTab {justify-content: center; }
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {isolation: isolate;} 
+.nav-tabs .nav-link {border: none!important;     margin-right: 15px;     background: rgba(30, 80, 255, 0.1);    border-radius: 8px;}
+i.fa-solid.fa-saxophone {   color: goldenrod;}
+.nav-tabs .nav-link i{margin-right:8px;}
+i.fa-solid.fa-palette {    color: greenyellow;}
+i.fa-solid.fa-bowling-pins { color: grey;}
+i.fa-solid.fa-camcorder {color: grey;}
+i.fa-solid.fa-vr-cardboard { color: skyblue; }
+.pagintion1{float: left; width: 100%; padding-top: 50px;}
+[data-pagination] {font-size: 8pt; line-height: 1; font-weight: 400; font-family: "Open Sans", "Source Sans Pro", Roboto, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Myriad Pro", "Segoe UI", Myriad, Helvetica, "Lucida Grande", "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, Arial, sans-serif; -webkit-text-size-adjust: 100%; margin: 1em auto; text-align: center; transition: font-size 0.2s ease-in-out; }
+[data-pagination] ul {list-style-type: none; display: inline; font-size: 100%; margin: 0; padding: 0.5em; }
+[data-pagination] ul li {display: inline-block; font-size: 100%; width: auto; border-radius: 3px; }
+[data-pagination] > a {font-size: 140%; }
+[data-pagination] a {color: #ffff  ; font-size: 100%; padding: 0.5em; }
+[data-pagination] a:focus,
+[data-pagination] a:hover {  color: #ffff; background: #1E50FF; border-radius: 50%;     padding: 3px 11px;}
+[data-pagination] li.current {background: rgba(0, 0, 0, 0.1); }
+/* Disabled & Hidden Styles */
+[data-pagination] .disabled,
+[data-pagination] [hidden],
+[data-pagination] [disabled] {opacity: 0.5; pointer-events: none; }
+@media (min-width: 350px) {
+  [data-pagination] {font-size: 10pt; }
+}
+@media (min-width: 500px) {
+  [data-pagination] {font-size: 12pt; }
+}
+@media (min-width: 700px) {
+  [data-pagination] {font-size: 14pt; }
+}
+@media (min-width: 900px) {
+  [data-pagination] {font-size: 16pt; }
+}
